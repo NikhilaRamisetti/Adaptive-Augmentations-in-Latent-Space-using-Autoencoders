@@ -51,19 +51,19 @@ To use this project, follow these steps to set up your environment:
 
 #### Code directory structure
 
-├── README.md          <- The top-level README for developers. 
-├── data 
-│   ├── input          <- Folder containing celebA raw data.
-│   └── output         <- Folder to save .ckpts, generated images and plots.
-│       ├── checkpoints     <- Weights of model saved as .h5 files
-│       └── generated_images <- Folder containing generated images.
-        └── figures          <- Folder containing plots of training progress.
-├── docs               <- A folder for documentation 
-├── notebooks 
-│   ├── main_code.ipynb      <- The main code(containing the model).
-│   └── evaluation.ipynb     <- The evaluation of the model.
-├── requirements.txt   <- Required modules to be installed.  
-├── references         <- Data dictionaries, manuals, and all other explanatory materials. 
+- README.md - The top-level README for developers. 
+- data 
+   -  input - Folder containing celebA raw data.
+   - output - Folder to save .ckpts, generated images and plots.
+      - checkpoints - Weights of model saved as .h5 files
+      - generated_images - Folder containing generated images.
+      - figures - Folder containing plots of training progress.
+- docs - A folder for documentation 
+- notebooks 
+   - main_code.ipynb - The main code(containing the model).
+   - evaluation.ipynb - The evaluation of the model.
+- requirements.txt - Required modules to be installed.  
+- references - Data dictionaries, manuals, and all other explanatory materials. 
 
 #### Additional Notes
 
